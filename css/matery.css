@@ -603,7 +603,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@kitframes rainbow {
+@keyframes rainbow {
 
     0%,
     100% {
